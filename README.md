@@ -7,11 +7,11 @@ Landing page for *Code for Ft. Lauderdale*, originally a fork of the landing pag
 Fork, Edit, then Pull Request when ready.
 
 # Developing
-1. Run `npm install`
-2. Run `npm run dev`
+1. Run `npm install` to install modules into `node_modules` directory
+2. Run `npm run dev` to run localhost server
 
 # Building
-1. Run `npm run build` (output file found in `./dist`)
+1. Run `npm run build` to build `dist/bundle.js`
 
 
 #License
