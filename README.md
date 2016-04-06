@@ -8,7 +8,7 @@ Fork, Edit, then Pull Request when ready.
 
 # Developing
 1. Run `npm install`
-2. Run `npm start`
+2. Run `npm run dev`
 
 # Building
 1. Run `npm run build` (output file found in `./dist`)
